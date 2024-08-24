@@ -1,4 +1,22 @@
 ## Welcome to GitHub Pages
+#Rylan Ostrognai's First CS193 Homework
+
+
+- The Class is supposedly easy.
+- I know some people in it.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
